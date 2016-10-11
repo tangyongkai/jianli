@@ -204,7 +204,11 @@
             audioMusic.play();
             /*播放*/
             /*边播放边缓存，触发事件canplay*/
-            music.className = "music musicMove";
+            audioMusic.addEventListener("canplay", function () {
+                music.className = "music musicMove";
+            })
+        }, 1000)
+
         }, 1000)
 
 
