@@ -20,6 +20,7 @@ html, body {
     z-index: 1111;
     background: url("../audio/music.svg") no-repeat;
     background-size: cover;
+    opacity:0
    
 }
 
