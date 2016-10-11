@@ -201,11 +201,12 @@
             music.style.opacity = 1;
         })
         window.setTimeout(function () {
-            if (audioMusic.paused) {/*判断是否是停止*/
-                audioMusic.play();
+            audioMusic.play();
+            /*播放*/
+            /*边播放边缓存，触发事件canplay*/
+            audioMusic.addEventListener("canplay", function () {
                 music.className = "music musicMove";
-                return;
-            }
+            })
         }, 1000)
     })()
 
