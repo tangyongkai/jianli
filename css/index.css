@@ -56,7 +56,7 @@ html, body {
 
 .swiper-slide {
     position: relative;
-    background: red no-repeat;
+    background: red;
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -76,7 +76,7 @@ html, body {
     left: 0;
     top: 0;
     opacity: 1;
-    background: url("../img/o_1amb85hhh1rhm163tetd72at1n4e.png");
+    background:red;
     background-size: cover;
 }
 
