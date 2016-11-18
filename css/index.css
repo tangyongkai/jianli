@@ -56,8 +56,6 @@ html, body {
 
 .swiper-slide {
     position: relative;
-    background: url("../img/o-back-img.jpg");
-    -webkit-background-size: cover;
     width: 100%;
     height: 100%;
 }
@@ -75,6 +73,7 @@ html, body {
     height: 100%;
     left: 0;
     top: 0;
+    opacity:1
 }
 
 /*第一屏*/
