@@ -56,7 +56,7 @@ html, body {
 
 .swiper-slide {
     position: relative;
-    background: url("../img/o_1amauma3ck4l1lv063b1uqt1f8q9.jpg");
+    background: url("jianli/img/o_1amauma3ck4l1lv063b1uqt1f8q9.jpg");
     -webkit-background-size: cover;
     width: 100%;
     height: 100%;
@@ -76,7 +76,7 @@ html, body {
     left: 0;
     top: 0;
     opacity: 1;
-    background: url("../img/o_1amb85hhh1rhm163tetd72at1n4e.png") ;
+    background: url("jianli/img/o_1amb85hhh1rhm163tetd72at1n4e.png") ;
     -webkit-background-size: cover;
 }
 
