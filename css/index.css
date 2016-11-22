@@ -431,7 +431,7 @@ html, body {
 #page4 img:nth-of-type(4) {
     width: 0.05rem;
     height: 3.54rem;
-    left:1.28rem;
+    left:1.08rem;
     top: 2.57rem;
     animation: bounceInUp 1s both;
     -webkit-animation: bounceInUp 1s both;
@@ -440,7 +440,7 @@ html, body {
 #page4 img:nth-of-type(5) {
     width: 0.5rem;
     height: 0.5rem;
-    left: 1.05rem;
+    left: 0.85rem;
     top: 2.8rem;
     animation: fadeIn 1s both;
     -webkit-animation: fadeIn 1s both;
@@ -450,7 +450,7 @@ html, body {
 #page4 img:nth-of-type(6) {
     width: 0.5rem;
     height: 0.5rem;
-    left: 1.05rem;
+    left: 0.85rem;
     top: 4.1rem;
     animation: fadeIn 1s both;
     -webkit-animation: fadeIn 1s both;
@@ -459,7 +459,7 @@ html, body {
 #page4 img:nth-of-type(7) {
     width: 0.5rem;
     height: 0.5rem;
-    left: 1.05rem;
+    left: 0.85rem;
     top: 5.4rem;
     animation: fadeIn 1s both;
     -webkit-animation: fadeIn 1s both;
@@ -484,7 +484,8 @@ html, body {
 }
 
 #page4 div:nth-of-type(3) {
-    left: 1.59rem;
+    width: 2.26rem;
+    left: 1.39rem;
     top: 2.70rem;
     padding: 0.1rem;
     border: 0.02rem solid rgba(0, 0, 0, 0.65);
@@ -494,7 +495,8 @@ html, body {
 }
 
 #page4 div:nth-of-type(4) {
-    left: 1.59rem;
+    width: 2.26rem;
+    left: 1.39rem;
     top: 3.95rem;
     padding: 0.1rem;
     border: 0.02rem solid rgba(0, 0, 0, 0.65);
@@ -504,7 +506,8 @@ html, body {
 }
 
 #page4 div:nth-of-type(5) {
-    left: 1.59rem;
+    width: 2.26rem;
+    left: 1.39rem;
     top: 5.25rem;
     padding: 0.1rem;
     border: 0.02rem solid rgba(0, 0, 0, 0.65);
