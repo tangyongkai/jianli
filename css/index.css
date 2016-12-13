@@ -355,6 +355,7 @@ html, body {
     left: 2.34rem;
     top: 2.74rem;
     transform: rotate(-10deg);
+    -webkit-transform: rotate(-10deg);
     animation: fadeIn 1s 0.25s both;
     -webkit-animation: fadeIn 1s 0.25s both;
 }
@@ -364,6 +365,7 @@ html, body {
     left: 3.02rem;
     top: 3.14rem;
     transform: rotate(80deg);
+    -webkit-transform: rotate(80deg);
     animation: fadeIn 1s 0.75s both;
     -webkit-animation: fadeIn 1s 0.75s both;
 }
@@ -373,6 +375,7 @@ html, body {
     left: 2.4rem;
     top: 3.77rem;
     transform: rotate(-22deg);
+    -webkit-transform: rotate(-22deg);
     animation: fadeIn 1s 1.25s both;
     -webkit-animation: fadeIn 1s 1.25s both;
 }
@@ -382,6 +385,7 @@ html, body {
     left: 2.06rem;
     top: 4.34rem;
     transform: rotate(-80deg);
+    -webkit-transform: rotate(-80deg);
     animation: fadeIn 1s 1.75s both;
     -webkit-animation: fadeIn 1s 1.75s both;
 }
@@ -391,6 +395,7 @@ html, body {
     left: 1.9rem;
     top: 4.93rem;
     transform: rotate(-70deg);
+    -webkit-transform: rotate(-70deg);
     animation: fadeIn 1s 2.25s both;
     -webkit-animation: fadeIn 1s 2.25s both;
 }
@@ -400,6 +405,7 @@ html, body {
     left: 1.9rem;
     top: 5.68rem;
     transform: rotate(60deg);
+    -webkit-transform: rotate(60deg);
     animation: fadeIn 1s 2.75s both;
     -webkit-animation: fadeIn 1s 2.75s both;
 }
